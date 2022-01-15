@@ -1,0 +1,19 @@
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\PatternsTests.deps.json
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\PatternsTests.runtimeconfig.json
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\PatternsTests.runtimeconfig.dev.json
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\PatternsTests.dll
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\PatternsTests.pdb
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\Patterns (LR 1).exe
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\Patterns (LR 1).pdb
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\bin\Debug\netcoreapp2.1\Patterns (LR 1).exe.config
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\obj\Debug\netcoreapp2.1\PatternsTests.csprojAssemblyReference.cache
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\obj\Debug\netcoreapp2.1\PatternsTests.csproj.CoreCompileInputs.cache
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\obj\Debug\netcoreapp2.1\PatternsTests.AssemblyInfoInputs.cache
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\obj\Debug\netcoreapp2.1\PatternsTests.AssemblyInfo.cs
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\obj\Debug\netcoreapp2.1\PatternsTests.csproj.CopyComplete
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\obj\Debug\netcoreapp2.1\PatternsTests.dll
+D:\Google Диск\[Смыков] Современные технологии разработки программного обеспечения\Patterns (LR 1, 3)\PatternsTests\obj\Debug\netcoreapp2.1\PatternsTests.pdb
